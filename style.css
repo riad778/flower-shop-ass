@@ -1,20 +1,26 @@
 .heading-1{
     background-color: antiquewhite;
-    height: 550px;
-
+    height: 480px;
+    /* background-image: url(./images/pngwing\ 10.png); */
+    background-repeat: no-repeat;
+    padding: 80px;
+    display: flex;
+    align-items: center;
 
 }
 .heading-2{
-    color: #272727;
-    font-size: 50px;
-
-}
-.frist-div{
-    padding: 130px;
+    font-size: 70px;
 }
 .btn-1{
    background-color: #E55473;
    border-radius: 5px;
    padding:10px 30px ;
    
+}
+.banner{
+    padding: 100px 100px;
+    height: 641px;
+}
+.frist-paragraph{
+    padding: 52px;
 }
