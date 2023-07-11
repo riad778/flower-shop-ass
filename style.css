@@ -8,6 +8,12 @@
     align-items: center;
 
 }
+.photo-1{
+    display: flex;
+    padding: 130px;
+    width: 100px;
+    height: 500px;
+}
 .heading-2{
     font-size: 70px;
 }
@@ -22,6 +28,9 @@
     padding: 15px 130px;
     height: 641px;
 }
-.frist-paragraph{
-
+.layer-1{
+    text-align: center;
+    color: black;
+    font-size: 40;
+    padding: 100px;
 }
