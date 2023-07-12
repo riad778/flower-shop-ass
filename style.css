@@ -71,3 +71,31 @@
  .frist-paragraph-2{
     margin-left: 200px;
  }
+ .off{
+    color: red;
+ }
+ .layer-2{
+    text-align: center;
+    padding: 10px;
+ }
+.photo-15{
+    display: flex;
+    padding: 10px 10px;
+    margin-left:  10px;
+    justify-content: center;
+}
+.layer-5{
+    text-align: center;
+}
+.box{
+    height: 25px;
+    width: 50px;
+    padding:2px 200px 2px;
+    text-align: center;
+    border-radius: 5px;
+}
+.btn-3{
+   background-color: rgb(238, 9, 74);
+  height: 30px;
+
+}
